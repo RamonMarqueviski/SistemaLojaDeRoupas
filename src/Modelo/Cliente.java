@@ -6,7 +6,7 @@
 package Modelo;
 
 /**
- * GOSTOSO
+ *aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
  * @author ramom
  */
 public class Cliente {
